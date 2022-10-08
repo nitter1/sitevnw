@@ -1,0 +1,194 @@
+body {
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb8ba3K0zn96AfzI4H3Vx8_nfu1Lc-f5F5c2X8jgSk61X74uw5wtgq3jma37eMcgiNQn7NpnWvxsQ0n_ybX1IiL9mvy-_rMf8CvtShkJrNLhImoOJ7YpwtGcgRdDvl7R30PQu2vg8C4RA67RB-DJc5jcVAftj4onCTL3iGEA4Nvw_tD85bDOQgUa_WQQ/s16000/774369.jpg2.jpg);
+  }
+  
+  #sectionOne {
+    margin-top: -10px;
+    margin-bottom: -15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: rgba(0, 0, 0, 0.5);
+  }
+  
+  .label {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: white;
+    display: block;
+    margin: 10px;
+  }
+  
+  .input {
+    height: 18px;
+    margin: 10px;
+    width: 200px;
+  }
+  
+  .label2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: white;
+    margin: 10px;
+  }
+  
+  .title1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+  
+  .checkboxs {
+    display: block;
+    color: white;
+    margin: 10px;
+  }
+  
+  .vcEstuda {
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .enviar {
+    margin-top: 25px;
+    padding: 5px 15px;
+    background: #ffb102;
+    border: 0 none;
+    cursor: pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+  }
+  
+  .enviar:active {
+    margin-top: 25px;
+    padding: 5px 15px;
+    background: #2c2e96;
+    border: 0 none;
+    cursor: pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+  }
+  
+  footer {
+    background-color: #00145d;
+    border-radius: 10px;
+  }
+  
+  header {
+    text-align: center;
+    background-color: #00145d;
+    height: 180px;
+    line-height: 170px;
+    padding-bottom: 10px;
+  }
+  
+  #logo1 {
+    text-align: center;
+  }
+  
+  #logo2 {
+    text-align: right;
+    width: 95%;
+  }
+  
+  #pFooter {
+    float: left;
+    text-align: left;
+    width: 40%;
+    color: white;
+    font-family: usual, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 15px;
+    margin-top: 15px;
+  }
+  
+  #pFooter2 {
+    width: 40%;
+    color: white;
+    font-family: usual, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 15px;
+    margin-top: 15px;
+  }
+  
+  #pFooter3 {
+    float: right;
+    text-align: right;
+    width: 100%;
+    color: white;
+    font-family: usual, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 15px;
+    margin-right: 300px;
+  }
+  .navbar {
+    list-style: none;
+    width: 30%;
+    display: inline-block;
+  }
+  
+  .navbar li {
+    display: inline-block;
+  }
+  
+  .navbar li a {
+    display: inline-block;
+    text-decoration: none;
+    letter-spacing: 1px;
+    color: #fff;
+    position: relative;
+    font-family: usual, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    margin-right: 55px;
+  }
+  
+  #divFooter1 {
+    float: right;
+    text-align: right;
+    width: 40%;
+  }
+  
+  #paragrafo1 {
+    display: block;
+  }
+  
+  #paragrafo2 {
+    display: block;
+    color: white;
+    font-family: usual, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .direitos {
+    text-align: center;
+  }
+  
+  .redes {
+    text-align: right;
+    float: right;
+    width: 100%;
+  }
+  #navbar {
+    float: left;
+    text-align: left;
+  }
+  
+  #navbar2 {
+    width: 30%;
+  }
+  
+  .background {
+    width: 100%;
+  }
+  
