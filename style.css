@@ -1,6 +1,7 @@
 #fundoForm {
     background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyr7NP1X4T_YbP7w6kvqRVYY14NtvpLHZppu58MX-Iu6d2BPrQ9yRUxxiWU0X2cHxPCNeL04lcH3To1woejpgGeNEWxpMq-iSXvH9pWxRC9v8iYz0OYi08HELfjfX1wc9v835ddiX2Ea4n-0u7lyEamc-0nlNGfpV6Z0IgP8QbFYvsqm-MRuWgVK0oCQ/s16000/stars.gif);
-  }
+    background-size: cover;
+}
   
   #sectionOne {
     margin-top: -10px;
